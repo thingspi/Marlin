@@ -3,7 +3,7 @@
 ## With configuration changes for the Ender 3 with SKR Mini e3 1.2
   - BLTouch
   - Runout Filament Sensor
-See ![This reddit post](https://www.reddit.com/r/ender3/comments/e894j7/marlin_20x_guide_for_ender_3_using_skr_mini_e3_v12/?ref=share&ref_source=link)
+See this reddit post: https://www.reddit.com/r/ender3/comments/e894j7/marlin_20x_guide_for_ender_3_using_skr_mini_e3_v12/?ref=share&ref_source=link
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
