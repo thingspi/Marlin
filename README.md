@@ -4,6 +4,7 @@
   - Increase Z current for Dual Z setup
   - BLTouch
   - Runout Filament Sensor
+
 See this reddit post: https://www.reddit.com/r/ender3/comments/e894j7/marlin_20x_guide_for_ender_3_using_skr_mini_e3_v12/?ref=share&ref_source=link
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
